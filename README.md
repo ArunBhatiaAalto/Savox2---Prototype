@@ -1,6 +1,6 @@
 # Intelligent audio listener
 
-This is the software repository for the protocamp project Intelligen audio listener. The aim of the project was to build a device which could classify sound sources and calculate their direction relative to the user.
+This is the software repository for the prototype project Intelligent audio listener. The aim of the project was to build a device which could classify sound sources and calculate their direction relative to the user.
 
 This software was written for the Raspberry pi 4, but other pi models should be compatible with minor adjustments. The repository includes a pre-trained machine learning algorithm for sound classification.
 
